@@ -1,0 +1,18 @@
+{
+    "server":{
+        "port":5000,
+        "host":"localhost"
+    },
+    "tokens":{
+        "ACCESS_TOKEN":"livia2023",
+        "REFRESH_TOKEN":"liona2024"
+    },
+    "database":{
+        "url":"mongodb://127.0.0.1/workdb"
+    },
+    "PositionId":{
+        "DOS":24,
+        "headPrefect":20,
+        "student":22
+    }
+ }
